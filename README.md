@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 **Summary**
 
-Software engineer with about 10 years of experience across software architecture, product ownership, backend systems, databases, frontends, and smart contracts.
+Software engineer with 10+ years of experience across software architecture, product ownership, backend systems, databases, frontends, and smart contracts.
 
 My focus now is **Folio**, a consumer app for buying tokenized US stocks. The vision I am building toward:
 - **One market from many sources.** Aggregate tokenized equities across issuers and trading venues, work across chains, and balance the book so inventory stays in line with what users hold.
